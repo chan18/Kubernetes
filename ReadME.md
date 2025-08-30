@@ -54,5 +54,3 @@ Kubectl port-forward my-pod 8080:80
 Creating pods : 
 
 Kubectl run —generator=run-pod/v1 webapp –image=k8s4devs.azurecr.io/k8sdevs/webapp:v0.2
-
-
